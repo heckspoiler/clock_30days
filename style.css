@@ -1,16 +1,15 @@
-
 body {
 
     background-image: url(https://www.icon-icon.com/wp-content/uploads/2021/05/logos_325_970757.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-blend-mode:luminosity;
-    
-    
-    
+    background-blend-mode: luminosity;
+
+
+
 }
- 
+
 .hand {
     width: 50%;
     height: 6px;
@@ -20,7 +19,7 @@ body {
     transform-origin: 100%;
     transform: rotate(90deg);
     transition: all 0.05s;
-    transition-timing-function: cubic-bezier(0,1.83,.07,1.49);
+    transition-timing-function: cubic-bezier(0, 1.83, .07, 1.49);
 }
 
 .clock {
